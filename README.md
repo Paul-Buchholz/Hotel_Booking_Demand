@@ -86,11 +86,11 @@ L’analyse suit plusieurs étapes clés :
 Plusieurs graphiques et visualisations ont été réalisés pour comprendre l’impact des variables.  
 Exemples de représentations disponibles dans le notebook :  
 
-[Pearson_numeric_data](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/Pearson_numeric_data.png)
+![Pearson_numeric_data](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/Pearson_numeric_data.png)
 
-[cancelation_rate_country_grouped](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/cancelation_rate_country_grouped.png)
+![cancelation_rate_country_grouped](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/cancelation_rate_country_grouped.png)
 
-[model_comparison](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/model_comparison.png)
+![model_comparison](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/Images/model_comparison.png)
 
 Voici le rapport final : 
 [Consultez le rapport final ici](https://github.com/Paul-Buchholz/Hotel_Booking_Demand/blob/main/RAPPORT_FINAL.md)
